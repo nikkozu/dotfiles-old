@@ -2,9 +2,9 @@
 .files backup 
 
 ## Source
-- [streetturtle/awesome-wm-widgets]
-- [purhan/dotfiles]
+- [streetturtle/awesome-wm-widgets][streetturtle]
+- [purhan/dotfiles][purhan]
 
 
-[streetturte/awesome-wm-widgets]: https://github.com/streetturtle/awesome-wm-widgets
-[purhan/dotfiles]: https://github.com/purhan/dotfiles
+[streetturtle]: https://github.com/streetturtle/awesome-wm-widgets
+[purhan]: https://github.com/purhan/dotfiles
