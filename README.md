@@ -1,10 +1,8 @@
 # dotfiles
-.files backup 
+my awesome dot files
+
+## Table of Contents
+- Soon
 
 ## Source
-- [streetturtle/awesome-wm-widgets][streetturtle]
-- [purhan/dotfiles][purhan]
-
-
-[streetturtle]: https://github.com/streetturtle/awesome-wm-widgets
-[purhan]: https://github.com/purhan/dotfiles
+- Soon
