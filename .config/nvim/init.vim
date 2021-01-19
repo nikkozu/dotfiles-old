@@ -1,0 +1,1 @@
+/home/masami/.config/nvim/init.vim
