@@ -1,1 +1,0 @@
-/home/masami/.config/nvim/autoload/plug.vim
